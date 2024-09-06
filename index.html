@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Genshin.gg</title>
+</head>
+<body>
+    <header>
+        <h1> Genshin.gg </h1>  
+    </header>  
+
+    <main> 
+        <section>
+        <input type="text" placeholder="Digite o nome do Personagem" id="campo-pesquisa">
+        <button onclick="pesquisar()">Pesquisar</button> <!-- criei uma função chamada 'pesquisar' no oncick para quando clicar acontecer algo, esse algo esta sendo definido la no código do java 'app.js'-->
+        </section>
+
+        <section class="resultados-pesquisa"
+        id="resultados-pesquisa">
+        <!-- 'Class' usa para se referenciar na la pasta no css no css (css estiliza "resultados-pesquisa" pra mim) 
+            O 'ID' usa no código da pasta javaScript -->   
+        </section>
+    </main>
+
+    <footer>
+        <a href="https://genshin.hoyoverse.com/pc-launcher/?utm_source=GS-BR-PC-X-search-keywords-classic-20230128&mhy_trace_channel=ga_channel&new=1&gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9CKbhZmv2gqNoTbjN39K4VTO4IWjx83gwHcEbH210WhNOzFTgyZl3hoCr0gQAvD_BwE#/">
+            <img class="logo-footer" src="https://logos-world.net/wp-content/uploads/2024/01/Genshin-Impact-Logo.jpg" alt="Logo Genshin Impact">
+        </a>
+        <p>2024 jogo eletronico Genshin Impatc. Todos os direitos reservados</p>
+    </footer>
+
+    <script src="dados.js"></script> <!--é importante os dados primeiro -->
+    <script src="app.js"></script>
+</body>
+</html>
