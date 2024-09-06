@@ -37,35 +37,4 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar,
 
 Com o Genshin.gg, sua jornada em Teyvat será ainda mais divertida e emocionante! 
 
-**Dicas para deixar o README ainda mais legal:**
-
-* **Imagens:** Adicione imagens e GIFs para deixar o README mais visual e atraente.
-* **Emojis:** Use emojis para tornar o texto mais divertido e fácil de ler.
-* **Seções:** Divida o README em seções claras e concisas, facilitando a navegação.
-* **Links:** Inclua links para os repositórios, documentação e outros recursos relevantes.
-* **Agradecimentos:** Agradeça aos colaboradores e à comunidade.
-
-**Exemplo:**
-
-```markdown
-## Genshin.gg: Seu guia pessoal para Teyvat! ️
-
-![Imagem do site Genshin.gg]
-
-**Descubra tudo sobre seus personagens favoritos!**
-
-Com o Genshin.gg, você pode:
-
-* Buscar por personagens
-* Ver builds e habilidades
-* Acessar guias completos
-
-...
-
-**Tecnologias:** HTML, CSS, JavaScript, Fuse.js
-
-**Contribua:** [https://github.com/seu-usuario/genshin-gg](https://github.com/seu-usuario/genshin-gg)
-
-**Licença:** MIT
-
-**Agradecimentos:** Agradecemos à comunidade de Genshin Impact por todo o apoio!
+![bf462dcdb2f4f8d85215546cb91597fc_3992766675498235798](https://github.com/user-attachments/assets/7b536121-595d-43dc-915c-f9dd22af8ab5)
