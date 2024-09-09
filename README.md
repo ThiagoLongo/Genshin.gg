@@ -40,3 +40,5 @@ Com o Genshin.gg, sua jornada em Teyvat será mais prática e divertida!
 ![bf462dcdb2f4f8d85215546cb91597fc_3992766675498235798](https://github.com/user-attachments/assets/7b536121-595d-43dc-915c-f9dd22af8ab5)
 
 Site criado apenas por diversão e estudo!  
+
+Link para o site: https://genshin-gg.vercel.app/
