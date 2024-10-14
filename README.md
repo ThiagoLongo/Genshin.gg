@@ -17,7 +17,7 @@ Com apenas alguns cliques, você encontra tudo o que precisa saber sobre seus pe
 * **HTML:** A estrutura da página, onde tudo acontece! ️
 * **CSS:** Deixa tudo bonitinho e organizado, com um design moderno e intuitivo. ✨
 * **JavaScript:** A mágica por trás da busca e exibição dos resultados, tornando tudo dinâmico e interativo. ‍♂️
-* **Fuse.js:** Biblioteca incrível que torna a pesquisa super rápida e precisa, mesmo com erros de digitação. 
+* **Fuse.js:** Biblioteca incrível que torna a pesquisa super rápida e precisa.
 
 **Contribuições:**
 
